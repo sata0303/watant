@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://sata0303.github.io/watant/ja/sitemap.xml</loc>
+    
+      <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://sata0303.github.io/watant/en/sitemap.xml</loc>
+    
+      <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://sata0303.github.io/watant/ru/sitemap.xml</loc>
+    
+      <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
