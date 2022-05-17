@@ -1,9 +1,9 @@
-baseurl: https://example.com
+baseurl: https://sata0303.github.io/watant/
 languageCode: ja
 theme: hugo-theme-stack
 paginate: 5
 title: Example Site
-
+publishDir: docs
 languages:
     ja:
         languageName: 日本語
