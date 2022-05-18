@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Watan.Tokyo</title>
-        <link>https://sata0303.github.io/watant/page/</link>
+        <link>https://sata0303.github.io/page/</link>
         <description>Recent content in Pages on Watan.Tokyo</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://sata0303.github.io/watant/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://sata0303.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>アーカイブ</title>
-        <link>https://sata0303.github.io/watant/archives/</link>
+        <link>https://sata0303.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://sata0303.github.io/watant/archives/</guid>
+        <guid>https://sata0303.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>https://sata0303.github.io/watant/about/</link>
+        <link>https://sata0303.github.io/about/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://sata0303.github.io/watant/about/</guid>
+        <guid>https://sata0303.github.io/about/</guid>
         <description>&lt;h2 id=&#34;専攻&#34;&gt;専攻&lt;/h2&gt;
 &lt;p&gt;国際関係論（国際政治学・比較政治学）&lt;/p&gt;
 &lt;h2 id=&#34;関心のあるテーマ&#34;&gt;関心のあるテーマ&lt;/h2&gt;
@@ -43,10 +43,10 @@
         </item>
         <item>
         <title>Links</title>
-        <link>https://sata0303.github.io/watant/links/</link>
+        <link>https://sata0303.github.io/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://sata0303.github.io/watant/links/</guid>
+        <guid>https://sata0303.github.io/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -78,10 +78,10 @@
         </item>
         <item>
         <title>Search</title>
-        <link>https://sata0303.github.io/watant/search/</link>
+        <link>https://sata0303.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://sata0303.github.io/watant/search/</guid>
+        <guid>https://sata0303.github.io/search/</guid>
         <description></description>
         </item>
         

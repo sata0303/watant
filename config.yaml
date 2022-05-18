@@ -1,4 +1,4 @@
-baseurl: https://sata0303.github.io/watant
+baseurl: https://sata0303.github.io/
 languageCode: ja
 theme: hugo-theme-stack
 paginate: 5
@@ -34,7 +34,7 @@ hasCJKLanguage: false
 
 permalinks:
     post: /p/:slug/
-    page: /:slug/
+    page: :slug/
 
 params:
     mainSections:
@@ -64,11 +64,11 @@ params:
         toc: true
         readingTime: true
         license:
-            enabled: true
+            enabled: false
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         disqusjs:
